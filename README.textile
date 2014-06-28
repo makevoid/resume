@@ -1,0 +1,74 @@
+# Francesco 'makevoid' Canessa
+### Ruby Developer
+### resumee
+
+
+Main programming language: Ruby
+Secondary: Javascript
+
+### Majour open source projects
+
+guard-concat:
+rack-tidy-ffi:
+blizz: https://github.com/makevoid/blizz
+
+
+Conferences where I spoke:
+- RubyDay 2013 - Code it from scratch - http://cifs.mkvd.net/ (use arrows to navigate)
+
+Lighting talks:
+RailsBerry 2012 - https://www.youtube.com/watch?v=t1wlZ2hMZqo
+
+User groups where did a presentation:
+- Florence On Ruby, Cantiere Creativo, Firenze, Italy (http://flor.usergroupp.com/ - http://florenceonruby.it/)
+-- Fivetastic - https://github.com/makevoid/fivetastic_presentation
+-- Ruby 2.0 (https://github.com/makevoid/presentations)
+-- Ember.js (live coded the prototype of s3play: https://github.com/makevoid/s3play)
+- meetup before JRuby conf '13 event at Oracle building, Tokyo, Japan
+
+
+
+Attended ~40 dev conferences: http://lanyrd.com/profile/makevoid/
+
+
+Programming languages:
+- Ruby
+- Javascript
+- HTML, CSS
+- Coffeescript
+- Rubymotion (iOS)
+- JRuby (cross platform swing apps)
+- GTK js (gnome)
+
+
+Environments
+
+
+
+Roles that suit me:
+- Full Stack developer
+- Backend developer
+- Web apps developer
+- Mobile apps developer
+
+-
+
+
+css: []
+
+mini: this resume is open source at http://github.com/makevoid/resume
+
+
+
+---
+
+skills loosely related
+
+Arduino
+3D Printers
+
+
+skills not related to programming
+
+videomaking + music + video editing
+https://www.youtube.com/watch?v=7Y-d0XWGfxs
