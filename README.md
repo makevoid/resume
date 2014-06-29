@@ -67,6 +67,7 @@ Attended ~40 dev conferences: http://lanyrd.com/profile/makevoid/
 - Backend developer
 - Web apps developer
 - Mobile apps developer
+- Front-end engineer
 
 
 ### skills related to webdev
