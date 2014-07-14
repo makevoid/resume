@@ -39,11 +39,14 @@ Lighting talks:
 RailsBerry 2012 - https://www.youtube.com/watch?v=t1wlZ2hMZqo
 
 User groups where did a presentation:
-- Florence On Ruby, Cantiere Creativo, Firenze, Italy (http://flor.usergroupp.com/ - http://florenceonruby.it/)
--- Fivetastic - https://github.com/makevoid/fivetastic_presentation
--- Ruby 2.0 (https://github.com/makevoid/presentations)
--- Ember.js (live coded the prototype of s3play: https://github.com/makevoid/s3play)
-- meetup before JRuby conf '13 event at Oracle building, Tokyo, Japan
+
+- A) Florence On Ruby, Cantiere Creativo, Firenze, Italy (http://flor.usergroupp.com/ - http://florenceonruby.it/)
+
+- Fivetastic - https://github.com/makevoid/fivetastic_presentation
+- Ruby 2.0 (https://github.com/makevoid/presentations)
+- Ember.js (live coded the prototype of s3play: https://github.com/makevoid/s3play)
+
+- B) meetup before JRuby conf '13 event at Oracle building, Tokyo, Japan
 
 
 Attended ~40 dev conferences: http://lanyrd.com/profile/makevoid/
@@ -70,7 +73,7 @@ h3. Roles that suit me:
 - Front-end engineer
 
 
-h3. skills related to webdev
+h3. Skills related to webdev
 
 - System administration and dev ops
 - Frontend Design
@@ -79,7 +82,7 @@ h3. skills related to webdev
 - SEO, FB campaigns, audience targeting, viral marketing strategies
 
 
-h3. skills loosely related to programming / webdev
+h3. Skills loosely related to programming / webdev
 
 - Arduino
 - 3D Printers (Assistance HW & SW, Calibration, Research and Building - open source contributions: https://github.com/makevoid/RepRap_3DM1 - https://github.com/makevoid/3DM_Marlin_firmware)
@@ -91,7 +94,7 @@ h3. skills loosely related to programming / webdev
 - Solar power photovoltaic systems (photovoltaic system web monitoring [via mmpt charge controller with ethernet port], data gathering and optimization, basic solar tracking, battery charge optimization)
 
 
-h3. skills not related to programming
+h3. Skills not related to programming
 
 photography https://www.facebook.com/photo.php?fbid=10201691996161191&set=a.10200114785451909.2197465.1218562195&type=1&theater
 videomaking + music + video editing
