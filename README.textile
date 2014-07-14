@@ -1,27 +1,27 @@
-# Francesco 'makevoid' Canessa
-### Ruby Developer
-### resumee
+h1. Francesco 'makevoid' Canessa
+h2. Ruby Developer
+h3. resumee
 
 Main programming language: Ruby
 Secondary: Javascript
 
 ---
 
-### Majour open source projects (libraries, ruby gems)
+h3. Majour open source projects (libraries, ruby gems)
 
 guard-concat: https://github.com/makevoid/guard-concat
 rack-tidy-ffi: https://github.com/makevoid/rack-tidy-ffi
 blizz: https://github.com/makevoid/blizz
 
 
-### Majour open source projects (apps)
+h3. Majour open source projects (apps)
 
 thorrents: http://thorrents.com
 s3play: http://s3play.it
 image_motion: https://github.com/makevoid/image_motion
 
 
-### Majour personal projects
+h3. Majour personal projects
 
 skicams: http://skicams.it website, api + iOS app in Obj-C [ https://itunes.apple.com/it/app/skicams/id353834920?mt=8 ] free app, 18k unique downloads from itunes app store, italian market
 
@@ -30,7 +30,7 @@ Find a list here: http://makevoid.com/open
 and check the latest here: https://github.com/makevoid?tab=repositories
 
 
-### Speaking
+h3. Speaking
 
 Conferences where I spoke:
 - RubyDay 2013 - Code it from scratch - http://cifs.mkvd.net/ (use arrows to navigate)
@@ -49,7 +49,7 @@ User groups where did a presentation:
 Attended ~40 dev conferences: http://lanyrd.com/profile/makevoid/
 
 
-### Programming languages
+h3. Programming languages
 
 - Ruby
 - Javascript
@@ -61,7 +61,7 @@ Attended ~40 dev conferences: http://lanyrd.com/profile/makevoid/
 - Bash scripting
 
 
-### Roles that suit me:
+h3. Roles that suit me:
 
 - Full-stack developer
 - Backend developer
@@ -70,7 +70,7 @@ Attended ~40 dev conferences: http://lanyrd.com/profile/makevoid/
 - Front-end engineer
 
 
-### skills related to webdev
+h3. skills related to webdev
 
 - System administration and dev ops
 - Frontend Design
@@ -79,7 +79,7 @@ Attended ~40 dev conferences: http://lanyrd.com/profile/makevoid/
 - SEO, FB campaigns, audience targeting, viral marketing strategies
 
 
-### skills loosely related to programming / webdev
+h3. skills loosely related to programming / webdev
 
 - Arduino
 - 3D Printers (Assistance HW & SW, Calibration, Research and Building - open source contributions: https://github.com/makevoid/RepRap_3DM1 - https://github.com/makevoid/3DM_Marlin_firmware)
@@ -91,15 +91,12 @@ Attended ~40 dev conferences: http://lanyrd.com/profile/makevoid/
 - Solar power photovoltaic systems (photovoltaic system web monitoring [via mmpt charge controller with ethernet port], data gathering and optimization, basic solar tracking, battery charge optimization)
 
 
-### skills not related to programming
+h3. skills not related to programming
 
 photography https://www.facebook.com/photo.php?fbid=10201691996161191&set=a.10200114785451909.2197465.1218562195&type=1&theater
 videomaking + music + video editing
 - https://www.youtube.com/watch?v=7Y-d0XWGfxs
 - https://www.youtube.com/watch?v=tqjg5LWD6dE
 
----
-
-css: [todo]
 
 mini: this resume is open source at http://github.com/makevoid/resume
