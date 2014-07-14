@@ -1,5 +1,7 @@
 h1. Francesco 'makevoid' Canessa
+
 h2. Ruby Developer
+
 h3. resumee
 
 Main programming language: Ruby
