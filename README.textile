@@ -22,11 +22,12 @@ h3. Majour personal projects
 
 - "skicams":http://skicams.it -  website, api + "iOS app in Obj-C":https://itunes.apple.com/it/app/skicams/id353834920?mt=8 free app ("v1 and v1.1":https://itunes.apple.com/it/app/skicams/id353834920?mt=8), 18k unique downloads from itunes app store, italian market
 - "sinforum":http://github.com/makevoid/sinforum - fast ruby forum made with Sinatra and DataMapper
+- "donacoin":http://github.com/makevoid/donacoin
 
 Find a list here: "makevoid.com/open":http://makevoid.com/open
-and check the latest here: https://github.com/makevoid?tab=repositories
+and check the latest here: "github.com/makevoid?tab=repositories":https://github.com/makevoid?tab=repositories
 
-especially "bitcoin_exchange":github.com/makevoid/bitcoin_exchange
+especially "bitcoin_exchange":github.com/makevoid/bitcoin_exchange 
 
 
 h3. Speaking
@@ -40,7 +41,7 @@ Lighting talks:
 
 User groups where did a presentation:
 
-- A) Florence On Ruby, Cantiere Creativo, Firenze, Italy (http://flor.usergroupp.com/ - http://florenceonruby.it/)
+- A) Florence On Ruby, Cantiere Creativo, Firenze, Italy ("site new":http://flor.usergroupp.com/ - "site old":http://florenceonruby.it)
 
 - "Fivetastic":https://github.com/makevoid/fivetastic_presentation
 - "Ruby 2.0":https://github.com/makevoid/presentations 
