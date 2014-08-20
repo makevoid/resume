@@ -27,7 +27,11 @@ h3. Majour personal projects
 Find a list here: "makevoid.com/open":http://makevoid.com/open
 and check the latest here: "github.com/makevoid?tab=repositories":https://github.com/makevoid?tab=repositories
 
-especially "bitcoin_exchange":github.com/makevoid/bitcoin_exchange 
+Bitcoin related projects:
+"http://paperbank.it":Paperbank - Offline cold wallet generator
+"https://github.com/makevoid/btc_sms_wallets":Bitcoin Sms Wallet
+"https://github.com/makevoid/bitcoin_exchange":Bitcoin exchange
+"http://donacoin.com/":Donacoin - Donate without spending  
 
 
 h3. Speaking
